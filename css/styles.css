@@ -1,0 +1,15 @@
+.messagerie{
+    background-color: #C0FFEE;
+    height: 600px;
+    width: 80%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+#pseudo{
+    font-weight: bold;
+}
